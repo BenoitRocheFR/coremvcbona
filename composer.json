@@ -1,0 +1,11 @@
+{
+    "name": "vendor/coremvcbona",
+    "description": "Description of project coremvcbona.",
+    "authors": [
+        {
+            "name": "Benoît",
+            "email": "contact@benoitroche.fr"
+        }
+    ],
+    "require": {}
+}
